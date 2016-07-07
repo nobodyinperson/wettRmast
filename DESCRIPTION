@@ -1,7 +1,7 @@
 Package: wettRmast
 Type: Package
 Title: Read data from Wettermast Hamburg-files
-Version: 0.1
+Version: 1.0.0
 Date: 2015-09-16
 Author: Yann Buechau <nobodyinperson@gmx.de>
 Maintainer: Yann Buechau <nobodyinperson@gmx.de>
